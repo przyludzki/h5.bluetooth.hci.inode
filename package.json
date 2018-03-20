@@ -1,6 +1,6 @@
 {
 	"name": "h5.bluetooth.hci.inode",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Bluetooth HCI Manufacturer Specific Data decoder for iNode devices in Node.js.",
 	"keywords": ["h5", "blueooth", "ble", "hci", "inode"],
 	"license": "MIT",
